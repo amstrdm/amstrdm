@@ -6,6 +6,7 @@
 - 💞️ If you're interested in collaborating specifically in the FinTech Space hit me up!
 - 📫 You can reach me at a.caserta@proton.me
 - ⚡ I'm always looking forward to learning new things
+- 🖼️ Fun Fact: I ♥️ Renaissance Art
 
 <!---
 amstrdm/amstrdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
