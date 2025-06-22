@@ -1,8 +1,9 @@
-Hi, I’m Antonio
+## **Hi, I’m Antonio**
 
 I like things that do beep boop
 
-> My Energy is split between CompSci and Finance.
+ 
+I'm especially interested in CompSci and Finance.
 
 ### Current Focus
 > [!NOTE]
