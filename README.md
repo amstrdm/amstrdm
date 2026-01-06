@@ -1,26 +1,21 @@
 ## **Hi, I’m Antonio**
 
-I like things that do beep boop
+I'm a student from germany working as a software developer at [Seibert Media](https://seibert.group/) where I mostly work with typescript and astro. I also have a bunch to do with github workflows.
 
- 
-I'm especially interested in CompSci and Finance.
+In my free time I find vulnerabilities in companies, work on academic papers woth PhD students and code a lot of backend infrastructure
 
-### Current Focus
-> [!NOTE]
-> I keep this section updated depending on what my current projects are
+ ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+ ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-- Episteme is my current largest project. It's an AI financial terminal that structures and visualizes data from everyday investors to gauge market sentiment on a stock.
-- Working at Seibert Media as a Frontend Developer
-- Building and maintaining AR virtual try-on components for ecommerce sites & building a recommendation engine for sunglasses. 
+ ## Projects
 
-### Currently Learning
-> [!NOTE]
-> As cheesy as it sounds I really do love learning and since what I'm interested in changes constantly I keep this section updated
+ [**Episteme:**](https://episteme.cloud) Research tool for investors and traders. Analyzes crowd-sourced discussions from platforms like Reddit and Seeking Alpha to extract investment theses and sentiment. You can read my full writeup [on the website](https://www.episteme.cloud/introduction) or as one markdown file [here](https://gist.github.com/amstrdm/06f9a7eecde222300178bf04e2aed240)
 
-- **Astro** (Already quite familiar but going deeper as part of my job)
-- **Typescript** (Tried to avoid it for too long)
-- **Vim**
+[**BigToni:**](https://bigtoni.casertaconsulting.com) Financial Dashboard for clients. Structured financial planning for organizations including machine learning assisted forecasting of revenue, profit & customers
 
+[**Bolt4Free:**](https://github.com/amstrdm/bolt4free) Not really a project but the only cybersecurity thing thats actually public. I found a vulnerability in the e-scooter company Bolt that allowed attackers to ride for free
 <!---
 amstrdm/amstrdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
