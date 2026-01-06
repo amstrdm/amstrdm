@@ -16,6 +16,11 @@ In my free time I find vulnerabilities in companies, work on academic papers wot
 [**BigToni:**](https://bigtoni.casertaconsulting.com) Financial Dashboard for clients. Structured financial planning for organizations including machine learning assisted forecasting of revenue, profit & customers
 
 [**Bolt4Free:**](https://github.com/amstrdm/bolt4free) Not really a project but the only cybersecurity thing thats actually public. I found a vulnerability in the e-scooter company Bolt that allowed attackers to ride for free
+
+## Get in touch
+
+You can best contact me via telegram at [@amstrdm4](t.me/amstrdm4)
+
 <!---
 amstrdm/amstrdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
