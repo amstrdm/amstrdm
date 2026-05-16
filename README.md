@@ -1,8 +1,8 @@
 ## **Hi, I’m Antonio**
 
-I'm a student from germany working as a software developer at [Seibert Media](https://seibert.group/) where I mostly work with typescript, astro and github workflows.
+I'm a student from germany working as a software developer at [Seibert Media](https://seibert.group/).
 
-In my free time I find vulnerabilities in companies, work on academic papers with PhD students and code a lot of backend infrastructure
+In my free time I find vulnerabilities in companies, work on academic papers with PhD students and code a lot of backend infrastructure as well as embedded systems.
 
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
